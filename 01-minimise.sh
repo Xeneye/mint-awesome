@@ -1,7 +1,12 @@
 #!/bin/bash
  
 sudo apt purge --ignore-missing -y \
-thunderbird \
+irqbalance \
+celluloid \
+drawing \
+pix \
+firefox \
+hexchat \
 transmission-gtk \
 gnome-todo \
 baobab \
@@ -15,7 +20,6 @@ deja-dup \
 gnome-calendar \
 remmina \
 simple-scan \
-thunderbird-gnome-support \
 aisleriot \
 gnome-mahjongg \
 gnome-mines \
@@ -53,7 +57,6 @@ libreoffice-help-it \
 libreoffice-help-ru \
 libreoffice-help-en-us \
 thunderbird-locale-en \
-thunderbird-locale-en-gb \
 thunderbird-locale-en-us \
 thunderbird-locale-es \
 thunderbird-locale-es-ar \
@@ -141,7 +144,6 @@ hunspell-de-ch-frami \
 hunspell-de-de-frami \
 hunspell-en-au \
 hunspell-en-ca \
-hunspell-en-gb \
 hunspell-en-za \
 hunspell-es \
 hunspell-fr \
@@ -152,7 +154,6 @@ hunspell-pt-pt \
 hunspell-ru \
 hyphen-de \
 hyphen-en-ca \
-hyphen-en-gb \
 hyphen-en-us \
 hyphen-fr \
 hyphen-hr \
